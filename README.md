@@ -84,6 +84,7 @@ The malicious-looking EXE "transforms" in place, becoming an innocent PNG. Openi
    - Verify it opens as an image.
 
 ### directory structure
+```bash
 Polyglator/
 ├── README.md                       # Documentation (the one we just wrote)
 ├── make_polyglot.py                 # Python script to combine EXE + PNG
@@ -96,7 +97,7 @@ Polyglator/
 │   └── polyglot.exe                 # Generated polyglot EXE
 └── extracted/
     └── polyglot.png                 # Generated after scheduled rewrite
-
+```
 
 ### Workflow Diagrams
 
