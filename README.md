@@ -91,7 +91,7 @@ Polyglator/
 ├── modify_delayed.ps1               # Generated automatically by the C program
 ├── myprog.exe                        # Your demo executable (e.g., calc.exe or safe program)
 ├── myimage.png                       # Image to embed
-├── kio5.bat                         # the Multi-Language polyglot Script  (linux, windows, python)
+├── kio5.bat                         # the Multi-Language polyglot Script  (linux, windows, python) rename it to .sh for linux , .bat for windows , .py for python
 ├── output/
 │   └── polyglot.exe                 # Generated polyglot EXE
 └── extracted/
